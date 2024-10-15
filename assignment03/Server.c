@@ -1,6 +1,4 @@
 // Group: E
-// Name: Jareth Harmon
-// Email: jareth.harmon@okstate.edu
 // Description: This program creates multiple threads for each server and handles client connections to them. It also handles communicating with the client and 
 //	calling the Backend functions to write to the summary file and make receipts.
 #include <stdio.h>
